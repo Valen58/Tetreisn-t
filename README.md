@@ -1,4 +1,4 @@
-# Tetreisn-t
+# Tetrisn-t
 Proyecto Informatico II // Julia Golinowski, Valentin Cortez, Leon Gonzalez Liptak, Juan Martinez
 
 Mejoras que se pueden agregar a los juegos: 
