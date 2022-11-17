@@ -2,6 +2,7 @@
 Proyecto Informatico II // Julia Golinowski, Valentin Cortez, Leon Gonzalez Liptak, Juan Martinez
 
 ¿Cual es nuestro proyecto?
+
 Nuestro proyecto se basa en 4 juegos que estan subidos a una pagina web tambien creada por nosotros. 
 
 
