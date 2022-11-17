@@ -6,11 +6,11 @@ Mejoras que se pueden agregar a los juegos:
 - Tateti: 
 Bloquear el tablero cuando se acaba el juego 
 
--Ahorcado:
+- Ahorcado:
 Boton de reinicio 
 Que no se pueda ver la palabra clickeando dos veces o marcando los lugares
 
--DinoGame:
+- DinoGame:
 Boton de reinicio
 Que se pueda ir cambiando el dia a traves de los puntos 
 
