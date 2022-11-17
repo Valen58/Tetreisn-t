@@ -6,6 +6,9 @@ Proyecto Informatico II // Julia Golinowski, Valentin Cortez, Leon Gonzalez Lipt
 Nuestro proyecto se basa en 4 juegos que estan subidos a una pagina web tambien creada por nosotros. 
 
 
+![image](https://user-images.githubusercontent.com/108895449/202512367-99e55cd6-94fb-4afa-a39d-439b7e2fbf6e.png)
+
+
 Mejoras que se pueden agregar a los juegos: 
 
 - Tateti: 
